@@ -19,28 +19,33 @@ Learning experiments and exploratory work are maintained separately.
 
 ## 🛠 Core Skills
 
-- **Programming:** Python, Java, C  
-- **AI / ML:** Machine Learning, NLP, Computer Vision  
-- **Development:** Git, Linux, REST APIs  
-- **Databases:** MongoDB  
+- **Programming:** Python, JavaScript, SQL  
+- **Frontend:** HTML, CSS, React.js  
+- **Backend:** Node.js, Express.js, Flask, FastAPI, REST APIs  
+- **Databases:** MongoDB, MySQL, PostgreSQL  
+- **Tools & Platforms:** Git, Linux, JWT Authentication, OAuth 2.0, Cloud Deployment
 
 ---
 
 ## ⭐ Featured Projects
 
-### 🎤 Speech-to-Text System
-Python-based application for real-time speech recognition using microphone input.  
-**Tech:** Python, SpeechRecognition, NLP  
+### 🌊 Microplastic Detection Data Management System
+Full-stack platform for storing, managing, and analyzing multi-attribute microplastic detection data (polymer type, particle size, concentration, geolocation, and timestamps). Includes aggregation-based analytics and interactive dashboards for contamination trend analysis.  
+**Tech:** React.js, Node.js, Express.js, MongoDB (Atlas), JWT, Chart.js, Cloud Deployment
 
-### 🧮 SFD–BMD Calculator
-Engineering tool for shear force and bending moment analysis.  
-**Tech:** Python, Mathematical Modeling  
+---
 
-### 📸 Face Recognition Attendance System
-Database-backed attendance system using facial recognition.  
-**Tech:** Python, OpenCV, DBMS  
+### 📰 Fake News Detection Web Application
+AI-powered web application that analyzes user-submitted news content using a machine-learning classification pipeline. Returns credibility predictions with confidence scores and stores prediction history.  
+**Tech:** React.js, Flask, MongoDB, REST APIs, JWT, Cloud Deployment
 
-_(See pinned repositories for details and demos.)_
+---
+
+### 📧 Smart Inbox Automation & Analytics System
+Intelligent email automation system integrating Gmail APIs to classify and organize emails across multiple workflows. Automates labeling and reminders while generating behavioral analytics such as usage trends, peak hours, and sender patterns.  
+**Tech:** React.js, FastAPI, MongoDB, Gmail API, OAuth 2.0, JWT, Background Schedulers, Cloud Deployment
+
+_(See pinned repositories for detailed documentation and demos.)_
 
 ---
 
@@ -56,4 +61,4 @@ _(See pinned repositories for details and demos.)_
 
 - GitHub (Learning Account): https://github.com/chetangadhiya5062  
 - LinkedIn: https://www.linkedin.com/in/chetan-gadhiya-4923a6284  
-- Email: chetan.certi.001@gmail.com
+- Email: chetuex1gen536@gmail.com
