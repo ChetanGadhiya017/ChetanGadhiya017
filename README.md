@@ -1,60 +1,59 @@
 # Hi, I'm Chetan Gadhiya 👋
 
-🎓 Computer Science Student | 💻 Aspiring Software Developer  
-🚀 This is my **showcase GitHub account** for completed, production-ready projects.
+Computer Science undergraduate focused on building **complete, real-world software projects** with a strong interest in **AI/ML and applied systems**.
+
+This GitHub profile showcases **finished, well-documented projects** that I’m comfortable presenting on my resume.
 
 ---
 
-## 📌 About This Account
+## 🎯 What You’ll Find Here
 
-This GitHub profile is dedicated to:
-- ✅ **Fully completed projects**
-- 🧹 Clean code & proper structure
-- 📝 Well-documented repositories
-- 🧪 Tested and working features
+- ✅ Fully implemented projects  
+- 🧩 Clear problem → solution approach  
+- 🧹 Clean repository structure & documentation  
+- 🧪 Tested and reproducible results  
 
-📂 My learning experiments, college work, and unfinished projects are maintained separately.
+Learning experiments and exploratory work are maintained separately.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Core Skills
 
-- Languages: C, C++, Java, Python, JavaScript  
-- Frontend: HTML, CSS, JavaScript, React  
-- Backend: Node.js, Express  
-- Database: MongoDB, MySQL  
-- Tools: Git, GitHub, VS Code
+- **Programming:** Python, Java, C  
+- **AI / ML:** Machine Learning, NLP, Computer Vision  
+- **Development:** Git, Linux, REST APIs  
+- **Databases:** MongoDB  
 
 ---
 
 ## ⭐ Featured Projects
 
-Below are some of my completed projects (pinned repositories):
+### 🎤 Speech-to-Text System
+Python-based application for real-time speech recognition using microphone input.  
+**Tech:** Python, SpeechRecognition, NLP  
 
-- **Project Name**
-  - Short description of what the project does
-  - Tech stack used
-  - Key features
+### 🧮 SFD–BMD Calculator
+Engineering tool for shear force and bending moment analysis.  
+**Tech:** Python, Mathematical Modeling  
 
-_(More projects coming soon…)_
+### 📸 Face Recognition Attendance System
+Database-backed attendance system using facial recognition.  
+**Tech:** Python, OpenCV, DBMS  
 
----
-
-## 📈 What I Focus On
-
-- Writing clean and readable code
-- Completing projects end-to-end
-- Learning by building real-world applications
-- Improving project structure and documentation
+_(See pinned repositories for details and demos.)_
 
 ---
 
-## 📫 Connect With Me
+## 🎓 Background
 
-- GitHub (Learning Account): https://github.com/chetangadhiya5062
-- LinkedIn: *(add when ready)*
-- Email: *(optional)*
+- B.Tech in Computer Science Engineering  
+- Completed AI/ML certification – ISRO IIRS  
+- Active in technical and community clubs  
 
 ---
 
-⭐ Feel free to explore my repositories!
+## 📫 Contact
+
+- GitHub (Learning Account): https://github.com/chetangadhiya5062  
+- LinkedIn: https://www.linkedin.com/in/chetan-gadhiya-4923a6284  
+- Email: chetan.certi.001@gmail.com
