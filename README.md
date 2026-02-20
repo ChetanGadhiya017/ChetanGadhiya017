@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Chetan Gadhiya 👋
 
-<!--
-**ChetanGadhiya017/ChetanGadhiya017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student | 💻 Aspiring Software Developer  
+🚀 This is my **showcase GitHub account** for completed, production-ready projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About This Account
+
+This GitHub profile is dedicated to:
+- ✅ **Fully completed projects**
+- 🧹 Clean code & proper structure
+- 📝 Well-documented repositories
+- 🧪 Tested and working features
+
+📂 My learning experiments, college work, and unfinished projects are maintained separately.
+
+---
+
+## 🛠️ Tech Stack
+
+- Languages: C, C++, Java, Python, JavaScript  
+- Frontend: HTML, CSS, JavaScript, React  
+- Backend: Node.js, Express  
+- Database: MongoDB, MySQL  
+- Tools: Git, GitHub, VS Code
+
+---
+
+## ⭐ Featured Projects
+
+Below are some of my completed projects (pinned repositories):
+
+- **Project Name**
+  - Short description of what the project does
+  - Tech stack used
+  - Key features
+
+_(More projects coming soon…)_
+
+---
+
+## 📈 What I Focus On
+
+- Writing clean and readable code
+- Completing projects end-to-end
+- Learning by building real-world applications
+- Improving project structure and documentation
+
+---
+
+## 📫 Connect With Me
+
+- GitHub (Learning Account): https://github.com/chetangadhiya5062
+- LinkedIn: *(add when ready)*
+- Email: *(optional)*
+
+---
+
+⭐ Feel free to explore my repositories!
