@@ -1,64 +1,57 @@
-# Hi, I'm Chetan Gadhiya 👋
+<h1 align="center">Hi 👋, I'm Chetan Gadhiya</h1>
+<h3 align="center">A passionate Computer Science student & AI-ML enthusiast from India 🇮🇳</h3>
 
-Computer Science undergraduate focused on building **complete, real-world software projects** with a strong interest in **AI/ML and applied systems**.
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-This GitHub profile showcases **finished, well-documented projects** that I’m comfortable presenting on my resume.
-
----
-
-## 🎯 What You’ll Find Here
-
-- ✅ Fully implemented projects  
-- 🧩 Clear problem → solution approach  
-- 🧹 Clean repository structure & documentation  
-- 🧪 Tested and reproducible results  
-
-Learning experiments and exploratory work are maintained separately.
+- 🔭 I’m currently working on: **Speech Recognition, Some Various NLP Projects, and SFD-BMD Calculator**
+- 🌱 I’m learning: **AI/ML, Deep Learning, Computer Vision, and Java**
+- 💡 Interested in: **OpenCV, NLP, Hackathons, and Smart Systems**
+- 🏫 B.Tech CSE @ **PDEU** | Member of **Encode Club, ACM, NSS**
+- 🧠 Completed AI/ML course from **ISRO IIRS**
+- 🛠 Tools: `Python`, `Java`, `C`, `Git`, `Linux`, `OpenCV`, `MongoDB`, `Node.js`
+- 💬 Ask me about: `Machine Learning`, `Speech-to-Text`, `Design Patterns in Python`
+- 📫 Reach me: [chetuex1gen536@gmail.com](mailto:chetuex1gen536@gmail.com)
 
 ---
 
-## 🛠 Core Skills
+### 🧰 Projects I'm Proud Of
 
-- **Programming:** Python, JavaScript, SQL  
-- **Frontend:** HTML, CSS, React.js  
-- **Backend:** Node.js, Express.js, Flask, FastAPI, REST APIs  
-- **Databases:** MongoDB, MySQL, PostgreSQL  
-- **Tools & Platforms:** Git, Linux, JWT Authentication, OAuth 2.0, Cloud Deployment
+- 🎤 [SpeechToText.py](https://github.com/chetangadhiya5062/SpeechToText.py) — Python app to convert voice to text using real-time mic input  
+- 🧮 [SFD-BMD Calculator](https://github.com/chetangadhiya5062/SFD-BMD-Calculator) — Tool for civil engineering beam analysis  
+- 📸 [Face Attendance System](https://github.com/chetangadhiya5062/Fork_dbms_project_face_attendance) — A DBMS + face-recognition based attendance app
 
 ---
 
-## ⭐ Featured Projects
+### 📊 GitHub Stats
 
-### 🌊 Microplastic Detection Data Management System
-Full-stack platform for storing, managing, and analyzing multi-attribute microplastic detection data (polymer type, particle size, concentration, geolocation, and timestamps). Includes aggregation-based analytics and interactive dashboards for contamination trend analysis.  
-**Tech:** React.js, Node.js, Express.js, MongoDB (Atlas), JWT, Chart.js, Cloud Deployment
-
----
-
-### 📰 Fake News Detection Web Application
-AI-powered web application that analyzes user-submitted news content using a machine-learning classification pipeline. Returns credibility predictions with confidence scores and stores prediction history.  
-**Tech:** React.js, Flask, MongoDB, REST APIs, JWT, Cloud Deployment
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chetangadhiya5062&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=chetangadhiya5062&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetangadhiya5062&layout=compact&theme=radical" />
+</p>
 
 ---
 
-### 📧 Smart Inbox Automation & Analytics System
-Intelligent email automation system integrating Gmail APIs to classify and organize emails across multiple workflows. Automates labeling and reminders while generating behavioral analytics such as usage trends, peak hours, and sender patterns.  
-**Tech:** React.js, FastAPI, MongoDB, Gmail API, OAuth 2.0, JWT, Background Schedulers, Cloud Deployment
+### 🧠 LeetCode Stats
 
-_(See pinned repositories for detailed documentation and demos.)_
 
----
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/chetangadhiya4939" alt="LeetCode Stats" />
+</p>
 
-## 🎓 Background
-
-- B.Tech in Computer Science Engineering  
-- Completed AI/ML certification – ISRO IIRS  
-- Active in technical and community clubs  
 
 ---
 
-## 📫 Contact
+### 🌐 Connect with Me
 
-- GitHub (Learning Account): https://github.com/chetangadhiya5062  
-- LinkedIn: https://www.linkedin.com/in/chetan-gadhiya-4923a6284  
-- Email: chetuex1gen536@gmail.com
+<p align="left">
+  <a href="www.linkedin.com/in/chetan-gadhiya-4923a6284" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" />
+  </a>
+  <a href="mailto:chetan.certi.001@gmail.com" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="30" />
+  </a>
+</p>
+
