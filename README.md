@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Hey there 👋, I'm <span>Chetan Gadhiya</span></h1>
+  <h1>Hey there 👋, I'm <span>Chetan017</span></h1>
   <p><em>CS student building intelligent systems — AI/ML, NLP & Computer Vision from India 🇮🇳</em></p>
 
   ![AI/ML Builder](https://img.shields.io/badge/⚡_AI%2FML-Builder-1D9E75?style=flat-square&labelColor=E1F5EE&color=1D9E75)
