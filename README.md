@@ -1,8 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=120&section=header&text=&fontSize=0" />
-
-</div>
 
 <div align="center">
   <h1>Hey there 👋, I'm <span>Chetan Gadhiya</span></h1>
