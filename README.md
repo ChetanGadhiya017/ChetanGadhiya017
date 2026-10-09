@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,100:1D9E75&height=170&section=header&text=Chetan%20Gadhiya&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=B.Tech%20CSE%20%40%20PDEU%20%E2%80%A2%20Full-stack%20%26%20AI%2FML%20builder&descAlignY=58&descSize=16" alt="Chetan Gadhiya" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,100:1D9E75&height=170&section=header&text=Chetan%20Gadhiya&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=B.Tech%20CSE%20%40%20PDEU%20%E2%80%A2%20Full-stack%20%26%20AI%2FML%20builder&descAlignY=58&descSize=16" alt="Chetan Gadhiya" /> -->
 
 <a href="https://github.com/ChetanGadhiya017">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1D9E75&center=true&vCenter=true&width=620&lines=Full-stack+apps+with+React+%2B+Node+%2B+MongoDB;Computer+Vision+%26+Face+Recognition;Engineering+tools+in+Python;Turning+ideas+into+working+software" alt="Typing SVG" />
